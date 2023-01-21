@@ -4,8 +4,11 @@ const button = document.querySelector("header button");
 
 button.addEventListener("click", () => {
   const today = new Date().toLocaleDateString("pt-br").slice(0, -5);
+
   const dayExists = nlwSetup.dayExists(today);
   dayExists
+  let date = new Date()
+  
     ? alert(`Dia ${today} já existe na tabela`)
     : nlwSetup.addDay(today);
   return;
