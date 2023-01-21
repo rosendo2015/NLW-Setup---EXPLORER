@@ -14,7 +14,7 @@
 - Git e Github
 
 ## :nut_and_bolt: Principais pontos abordados
-
+### HTML
 ### CSS
 - display flex
 - Centralizar os elementos HTML usando self
