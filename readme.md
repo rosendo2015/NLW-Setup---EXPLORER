@@ -4,7 +4,7 @@
 
 > <b>Trilha Explorer </b>
 
-> Projeto feito na primeira NLW do ano de 2023 desafio 02 do nível 06 - <b>SPA Universe</b> construído no curso de progrmador fontend trilha Explorer da Rocketseat :rocket:. 
+> Projeto feito na primeira NLW do ano de 2023 - <b>Habits</b> Rocketseat :rocket:. 
 
 ## :hammer_and_wrench: Tecnologias
 
@@ -22,9 +22,6 @@
 ### Javascript
 
 - DOM
-- Conceitos de SPA;
-- Mapeamento de rotas;
-- Assíncrono e promises;
 - Orientação a objetos;
 - Estrutura de dados com objetos;
 - Classes e muito mais.
@@ -35,7 +32,7 @@
 
 ## :dart:  Desafio
 
-:heavy_check_mark:  A ideia aqui é você utilizar todos os conceitos aprendidos em aula em uma aplicação visualmente mais bonita que irá possibilitar o usuário cadastrar habitos que queira desenvolver ou melhorar como passar do tempo.
+:heavy_check_mark:  A ideia aqui é você utilizar todos os conceitos aprendidos em aula em uma aplicação visualmente mais bonita que irá possibilitar o usuário cadastrar hábitos que queira desenvolver ou melhorar como passar do tempo.
 
 ## :mailbox_closed: Contatos
 
